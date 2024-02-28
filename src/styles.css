@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr&display=swap');
+
+.butter:hover {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    width: 130px;
+    height: 35px;
+    border-radius: 200px;
+    border: solid 1px #5c668f;
+    padding-left: 15px;
+    padding-right: 15px;
+    transform: translateY(-4px);
+    transition: .4s;
+  }
+
+  .butter {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    width: 130px;
+    height: 35px;
+    border-radius: 200px;
+    border: solid 1px #5c668f;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .signout {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    width: 150px;
+    height: 35px;
+    border-radius: 200px;
+    border: solid 1px #5c668f;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .button-home {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    width:100px;
+    border-radius: 200px;
+    border: solid 1px #5c668f;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  .footer {
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 14px;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .hello {
+    margin-right: 10px;
+    align-content: center;
+    text-align: center;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 12px;
+    text-align:center;
+    background-color: #ffffff;
+    width: 320px;
+    height: 27px;
+    border-radius: 200px;
+    border: solid 1px #5c668f;
+  }
+
+  .textz {
+    height: 100%;
+    text-align: justify;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 14px;
+  }
+
+  .phase1:after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 900px;
+    background-image: url("https://images.unsplash.com/photo-1634838080334-28befa9efe80?q=80&w=2187&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-position: center;
+    filter: brightness(15%);
+  }
+
+  .topic {
+    font-family: 'Chakra Petch', sans-serif;
+  }
+  
+
+  .con1-welcome {
+    color: #ffffff;
+    font-family: 'Chakra Petch', sans-serif;
+  }
+
+  .con1-home {
+    color: #000000;
+    background-color: #ededed;
+    font-family: 'Chakra Petch', sans-serif;
+  }
+
+  .join:hover {
+    font-family: 'Chakra Petch', sans-serif;
+    border: 1px solid #ffffff;
+    background: transparent;
+  }
+
+  .join1:hover {
+    font-family: 'Chakra Petch', sans-serif;
+    border: 1px solid #5c668f;
+  }
+
+  .content-con {
+    display: flex;
+    width: 1000%;
+
+  }
+
+  .content-l img {
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+  }
+
+  .content-r {
+    padding-left: 20px;
+  }
+  
+  
